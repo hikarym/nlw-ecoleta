@@ -4,3 +4,7 @@
 # VStudio code
 /.vscode
 
+uploads/*
+!uploads/.gitkeep
+
+*.sqlite

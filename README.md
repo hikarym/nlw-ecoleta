@@ -21,6 +21,11 @@ For the frontend were used:
 - Axios
 - Apis ddo IBGE
 
+For the mobile version were used: 
+- Expo
+- React Native
+- Axios
+
 
 ## System Requirements
 
@@ -54,5 +59,12 @@ $ yarn dev
 
 ```
 $ yarn start
+```
+
+
+## Run Mobile Version
+
+```
+$ npm start
 ```
  
